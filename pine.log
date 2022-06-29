@@ -1,0 +1,19 @@
+{ "message": {"ApiName":"api/v2/accept/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"f0b5935b-6085-4510-8763-ac8eb76a96d8","MerchantID":106589,"MerchantTransactionID":"RunTeamEMI0046","AmountInPaisa":600000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241721,"TransactionStatus":"SUCCESS","DurationInMs":3440,"Time":"2022-01-05 13:28:12.4565"} }
+{ "message": {"ApiName":"api/v2/process/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"faf28169-5c4d-4ad8-bb3d-5eae005c25fc","MerchantID":106590,"MerchantTransactionID":"RunTeamEMI0050","AmountInPaisa":450000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241727,"TransactionStatus":"SUCCESS","DurationInMs":1473,"Time":"2022-01-05 13:28:36.2001"} }
+{ "message": {"ApiName":"api/v2/accept/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"7d614762-a34c-4ed7-91fb-776381dbde77","MerchantID":106589,"MerchantTransactionID":"RunTeamEMI0051","AmountInPaisa":300000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241722,"TransactionStatus":"SUCCESS","DurationInMs":2565,"Time":"2022-01-05 13:31:50.2937"} }
+
+{ "message": {"ApiName":"api/v2/process/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"6253ce21-9f49-48e4-ad78-c54320d5dbbe","MerchantID":106591,"MerchantTransactionID":"RunTeamEMI0047","AmountInPaisa":10000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241723,"TransactionStatus":"SUCCESS","DurationInMs":1253,"Time":"2022-01-05 13:34:04.7717"} }
+
+{ "message": {"ApiName":"api/v2/process/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"d6abc0fb-4117-46ab-a506-b6836cd75419","MerchantID":106589,"MerchantTransactionID":"RunTeamEMI0053","AmountInPaisa":72000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241724,"TransactionStatus":"SUCCESS","DurationInMs":988,"Time":"2022-01-05 13:34:08.0493"} }
+
+{ "message": {"ApiName":"api/v2/process/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"d6ab43fb-4227-46ab-a506-b683frew432419","MerchantID":106590,"MerchantTransactionID":"RunTeamEMI0056","AmountInPaisa":870000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241732,"TransactionStatus":"SUCCESS","DurationInMs":788,"Time":"2022-01-05 13:35:04.8867"} }
+
+{ "message": {"ApiName":"api/v2/process/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"drsz34c0fb-4117-97yh-a506-b6836mj778819","MerchantID":106589,"MerchantTransactionID":"RunTeamEMI0059","AmountInPaisa":120000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241726,"TransactionStatus":"SUCCESS","DurationInMs":1250,"Time":"2022-01-05 13:36:28.0793"} }
+
+{ "message": {"ApiName":"api/v2/process/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"d6abc0fb-6278-23fr-a506-f4568mg75419","MerchantID":106589,"MerchantTransactionID":"RunTeamEMI0037","AmountInPaisa":299000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241736,"TransactionStatus":"FAILURE", "ResponseCode": "U80","DurationInMs":2105,"Time":"2022-01-05 13:36:48.2341"} }
+
+{ "message": {"ApiName":"api/v2/process/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"faf28169-5c4d-4ad8-bb3d-k5862ng634281","MerchantID":106591,"MerchantTransactionID":"RunTeamEMI0065","AmountInPaisa":25000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241737,"TransactionStatus":"SUCCESS","DurationInMs":1277,"Time":"2022-01-05 13:38:36.4561"} }
+
+{ "message": {"ApiName":"api/v2/accept/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"f0346k35b-er85-4510-8763-kl84eb76r54d8","MerchantID":106589,"MerchantTransactionID":"RunTeamEMI0063","AmountInPaisa":540000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241731,"TransactionStatus":"FAILURE", "ResponseCode": "52", "DurationInMs":3100,"Time":"2022-01-05 13:40:11.4365"} }
+
+
