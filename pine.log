@@ -17,3 +17,4 @@
 { "message": {"ApiName":"api/v2/accept/payment","Acquirer":"","ProcessingPartner":"","CorelationID":"f0346k35b-er85-4510-8763-kl84eb76r54d8","MerchantID":106589,"MerchantTransactionID":"RunTeamEMI0063","AmountInPaisa":540000,"PaymentMode":"1","TransactionType":1,"PinePGTransactionID":7241731,"TransactionStatus":"FAILURE", "ResponseCode": "52", "DurationInMs":3100,"Time":"2022-01-05 13:40:11.4365"} }
 
 
+
